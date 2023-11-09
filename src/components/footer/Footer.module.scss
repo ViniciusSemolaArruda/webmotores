@@ -1,0 +1,14 @@
+.footer {
+    background-color: var(--color-grey);
+    border: 1px solid #000000; /* Adicionando uma borda preta ao redor do cabeçalho */
+    box-sizing: border-box; /* Mantém a largura e altura incluindo a borda e o preenchimento */
+    color: #000000;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+    p {
+      color: #000000;
+    }
+  }
